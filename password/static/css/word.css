@@ -1,0 +1,42 @@
+.h{
+    border: 6px;
+    text-align: center;
+    color: cornflowerblue;
+    border: 3px solid black;
+    padding: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  .box{
+    border: 2px solid grey;
+  padding: 5px;
+   width: 200px;
+   margin-left: 40px;
+  }
+  .summit{
+    border:2px solid slategray;
+    width:100px;
+    padding: 7px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    margin-left: 120px;
+  }
+  .pass{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    border: 2px solid rgb(115, 99, 126);
+    padding: 10px;
+    width: 130px;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 40px;
+  }
+  .top{
+    margin-top: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(13, 41, 63);
+  }
